@@ -1,2 +1,2 @@
 # http-info-collectors
-A basic nmap script I use alot and don't wanna lose if someone else can use it great if someone wants to add other useful nmap scripts even better I named it http-info-collectors plural so sky's the limit. Only Kali Linux users can fork lol 😆 jk!!!!!
+A basic nmap script I use alot and don't wanna lose if someone else can use it great if someone wants to add other useful nmap scripts even better I named it http-info-collectors plural so sky's the limit. Only Kali Linux users can commit thats funny i put that cause now i myself have been using windows again and havent fired up my linux pc in weeks oh turning into a family man cup of coffee and a windows pc whats next.
